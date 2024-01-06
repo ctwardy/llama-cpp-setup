@@ -63,4 +63,4 @@ PROMPT="Hello! Need any assistance?"
   --temp 0.2 \
   --repeat_penalty 1.1 \
   -t 8 \
-  -n-gpu-layers ${N_GPU_LAYERS}
+  --n-gpu-layers ${N_GPU_LAYERS}
